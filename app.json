@@ -33,6 +33,10 @@
       "deviceAuth": {
         "agentCode": "AGENT-2026",
         "adminCode": "ADMIN-2026"
+      },
+      "router": {},
+      "eas": {
+        "projectId": "8233a571-951d-425e-93eb-a56efcdfafe3"
       }
     },
     "plugins": [
@@ -40,6 +44,7 @@
       "expo-notifications",
       "expo-router",
       "expo-web-browser"
-    ]
+    ],
+    "owner": "lynrml"
   }
 }
